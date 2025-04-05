@@ -1,11 +1,15 @@
-# In-Vehicle-Coupon-Recommendation
+# In-Vehicle-Coupon-Recommendation Predication
 
-#Stage 1 - Exploratory Data Analysis
-#Stage 1 is a step that focused on gathering insights from statistical views.
+# Stage 1 - Exploratory Data Analysis
 
-#What have done on this stage:
+Stage 1 is a step that focused on gathering insights from statistical views.
 
-#Descriptive Analysis
-#Univariate Analysis
-#Multivariate Analysis
-#Business Insight As Business Recommendation
+What have done on this stage:
+
+-> Descriptive Analysis
+
+-> Univariate Analysis
+
+-> Multivariate Analysis
+
+-> Business Insight As Business Recommendation
