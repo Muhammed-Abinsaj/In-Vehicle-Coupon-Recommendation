@@ -16,7 +16,7 @@ What have done on this stage:
 
 
 
-Stage 2 - Preprocessing Data
+# Stage 2 - Preprocessing Data
 
 Stage 2 is another next step that we did manipulation on data before it is used in order to build the model.
 
@@ -32,7 +32,8 @@ Feature Selection
 Feature Extraction
 
 
-Stage 3 - Modeling and Evaluation
+# Stage 3 - Modeling and Evaluation
+
 Stage 3 is a step where I tested our data train to machine learning model and evaluated it. On this stage I created 7 different preprocessing treatment on datasets. I tested it to 5 different models: logistic regression, decision tree, random forest, XGBoost and CatBoost. The objective of it's action is at the end of this stage I couldn't only know which the better model also the better preprocessing treatment on dataset. As we know, in data science everything is experimental, so I did it to get the better result.
 
 What  have done on this stage:
